@@ -1,3 +1,4 @@
+![logo](https://github.com/KoustavDev/KoustavDev/blob/main/koustav%20majhi.png)
 <h1 align="center">Hi 👋, I'm Koustav Majhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://whosarghya.netlify.app/content/giphy.gif" alt="development" align="right" width="400">
