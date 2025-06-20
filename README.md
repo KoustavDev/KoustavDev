@@ -1,4 +1,4 @@
-![logo](https://github.com/KoustavDev/KoustavDev/blob/main/koustav%20majhi.png)
+![logo](https://github.com/KoustavDev/KoustavDev/blob/main/koustav%20majhi%20(1).png)
 <h1 align="center">Hi 👋, I'm Koustav Majhi</h1>
 <h3 align="center">A passionate full stack developer (MERN) from India</h3>
 <img src="https://whosarghya.netlify.app/content/giphy.gif" alt="development" align="right" width="400">
