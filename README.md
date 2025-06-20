@@ -25,7 +25,4 @@
     <p>
         &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=koustavdev&show_icons=true&locale=en" alt="koustavdev" />
     </p>
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustavdev" alt="koustavdev"/>
-    </p>
 </div>
